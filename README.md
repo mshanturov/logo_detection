@@ -9,8 +9,8 @@
 1.  **Клонируйте репозиторий:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<your_username>/<logo_detection>.git
-    cd <logo_detection>
+    git clone https://github.com/mshanturov/logo_detection.git
+    cd logo_detection
     ```
 
 
