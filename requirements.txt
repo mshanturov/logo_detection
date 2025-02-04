@@ -1,0 +1,7 @@
+gdown
+zipfile
+scikit-learn
+torch
+torchvision
+ultralytics
+opencv-python
